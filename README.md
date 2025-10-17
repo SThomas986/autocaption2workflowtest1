@@ -1,0 +1,2 @@
+# autocaption2workflowtest1
+Dockerized ComfyUI workflow: autocaption2workflowtest1
